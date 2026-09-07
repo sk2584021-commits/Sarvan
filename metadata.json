@@ -1,0 +1,6 @@
+{
+  "name": "Utsav",
+  "description": "A vibrant and complete Indian social media platform with posts, reels, stories, messaging, and creator monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
